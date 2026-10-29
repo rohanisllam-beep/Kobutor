@@ -1,0 +1,11 @@
+{
+  "name": "Kobutor",
+  "description": "Anonymous real-human connection platform where a person discovers a compatible companion with a living liquid pigeon identity.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
